@@ -16,5 +16,8 @@ services:
      context: centos7
    networks:
      - net
+ db_context:
+    volumes:
+      -
 networks:
  net:
