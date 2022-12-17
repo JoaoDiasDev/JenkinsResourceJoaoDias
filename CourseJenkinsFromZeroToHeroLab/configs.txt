@@ -1,6 +1,6 @@
 Ip vm interna jenkins - 192.168.1.13
 user: jenkins
-password: 123
+password: 1234
 
-jenkins hash installation: a115fc4eda7b482095c20bfb76bc50d7
+jenkins hash installation: bfddf8963032464e9a4650584f5c2afc
 Link jenkins: http://192.168.1.13:8080/
