@@ -4,3 +4,5 @@ password: 1234
 
 jenkins hash installation: bfddf8963032464e9a4650584f5c2afc
 Link jenkins: http://192.168.1.13:8080/
+
+API Token jenkins: 115f0ff1d620dd66a11e7b3e48d81170f6
