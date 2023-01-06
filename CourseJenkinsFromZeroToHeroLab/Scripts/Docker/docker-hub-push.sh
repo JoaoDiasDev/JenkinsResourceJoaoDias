@@ -12,3 +12,4 @@ echo "*** Tagging image ***"
 docker tag $IMAGE:$BUILD_TAG joaodias27/$IMAGE:$BUILD_TAG
 echo "*** Pushing image ***"
 docker push joaodias27/$IMAGE:$BUILD_TAG
+
